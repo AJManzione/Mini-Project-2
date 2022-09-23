@@ -73,8 +73,9 @@ footer {
     text-align: center;
 }
 
-img {
-    border-radius: 50%;
+#smiley {
+    font-size: 150px;
+    width: 100px;
 }
 
 h2:hover {
