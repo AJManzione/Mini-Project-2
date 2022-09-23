@@ -11,6 +11,23 @@ body{
     margin:0;
 }
 
+
+header {
+    text-align: center;
+}
+h1 {
+    font-size: 40px;
+}
+.boxes h2 {
+    position: relative;
+    top: -30px;
+    left: 30px;
+    background-color: darkcyan;
+    text-align: center;
+    width: 80%;
+    border-style: solid;
+    border-radius: 7px;
+}
 .boxes {
     min-width: 300px;
     min-width: 300px;
@@ -19,6 +36,22 @@ body{
     align-items: center;
     margin-left: 100px;
     margin: 25px;
+}
+
+.boxes p {
+    top: -40px;
+    left: 35p;
+    position: relative;
+    text-align: center;
+}
+
+.paragraph {
+    height: 140px;
+    margin: 10px;
+    padding: 0;
+    border-style: solid;
+    border-radius: 10px;
+
 }
 
 section{
